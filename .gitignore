@@ -1,0 +1,63 @@
+# Python 相關
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE 和編輯器相關
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 其他可能的大檔案或不應追蹤的項目
+mir_eval/
+python-pesq/
+
+# Project specific
+data/
+*.wav
+*.mp3
+*.flac
+*.pth
+*.ckpt
+*.pt
+*.h5
+*.npy
+*.npz
+*.mat
+*.csv
+*.json
+*.log
+*.txt
+!requirements.txt
+!README.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# System
+.DS_Store
+Thumbs.db 

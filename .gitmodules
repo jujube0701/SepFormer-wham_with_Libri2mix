@@ -1,0 +1,3 @@
+[submodule "LibriMix"]
+	path = LibriMix
+	url = https://github.com/JorisCos/LibriMix.git
